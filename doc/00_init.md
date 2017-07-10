@@ -40,11 +40,17 @@ https://babeljs.io/docs/usage/polyfill/
 npm install --save babel-polyfill
 
 ## 5 安装 webpack
+https://webpack.toobug.net/zh-cn/
 
 https://webpack.github.io/
 
 npm install --save-dev webpack
 
+webpack out publicPath 使用
+https://github.com/chemdemo/chemdemo.github.io/issues/13
+
+webpack中library和libraryTarget与externals的使用
+https://github.com/zhengweikeng/blog/issues/10
 
 
 ## package.json
